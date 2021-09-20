@@ -16,7 +16,7 @@ public class BootClass {
 		
 		
 		}
-		System.out.println("show method here!");
+		System.out.println("show");
 	}
 
 }
