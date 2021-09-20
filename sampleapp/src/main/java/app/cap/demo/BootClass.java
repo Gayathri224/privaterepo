@@ -11,7 +11,6 @@ public class BootClass {
 		int[] arr= {90,23,40};
 		int sum=0;
 		for(int n:arr) {
-			sum+=n;
 		    System.out.println(n);
 		
 		
