@@ -8,10 +8,14 @@ public class BootClass {
  
 	}
 	public static void show() {
-		int[] arr= {10,20,30,40};
+		int[] arr= {10,20,30,40};         
 		int sum=0;
 		
 		
+=======
+		int[] arr= {1,2,3,4,5,6,7,8};
+		int sum=0;
+>>>>>>> branch 'master' of https://github.com/Gayathri224/privaterepo.git
 		for(int n:arr) {
 			sum+=n;
 		    System.out.println(n);
